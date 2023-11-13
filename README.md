@@ -26,12 +26,13 @@ Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 1. **이상치 제거 X**
 <img width="873" alt="이상치제거X" src="https://github.com/ssuummm/creditcard_fraud_detection/assets/139437305/9b165a48-0038-49c3-a477-dfc623ae6af4">
 <br/>
+<br/>
 
 2. **이상치 제거 O**
 <img width="859" alt="이상치제거O" src="https://github.com/ssuummm/creditcard_fraud_detection/assets/139437305/e254a313-b61a-487f-9a05-95a1de23563a">
 
 ### 정리
--Boosting 기반 모형인 XGBoost, ADABoost, LightGBM이 좋은 성능 보여줌.  
--이상치 제거 진행 시, 대부분의 경우 성능이 향상됨. 그러나, 이상치 또한 유의미한 정보이기 때문에 과도하게 제거하는 것은 큰 정보 손실을 가져다줄 수 있음.
+- Boosting 기반 모형인 XGBoost, ADABoost, LightGBM이 좋은 성능 보여줌.  
+- 이상치 제거 진행 시, 대부분의 경우 성능이 향상됨. 그러나, 이상치 또한 유의미한 정보이기 때문에 과도하게 제거하는 것은 큰 정보 손실을 가져다줄 수 있음.
 
 
