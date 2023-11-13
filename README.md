@@ -17,7 +17,7 @@ Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ### II. Data Preprocessing
 1. 'V12', 'V14', 'V17'의 **이상치 제거**
 2. 'Amount', 'Time' 변수에 **Standard Scale** 적용
-3. 'Class' 반응변수 불균형 해소 위해 **SMOTE**
+3. 'Class' 반응변수 불균형 해소 위해 **SMOTE** 시도
 
 ### III. Modeling
 - validation set을 이용하여 최적의 hyperparameter를 찾아 tuning 진행  
