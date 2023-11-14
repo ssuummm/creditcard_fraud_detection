@@ -28,7 +28,7 @@ Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 <br/>
 <br/>
 
-2. **이상치 제거 O**
+2. **이상치 제거 O** (f1 score값)
 <img width="859" alt="이상치제거O" src="https://github.com/ssuummm/creditcard_fraud_detection/assets/139437305/e254a313-b61a-487f-9a05-95a1de23563a">
 
 ### 정리
